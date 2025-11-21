@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 🖐<br>👨‍💻 I'm current studying Python<br>🏫 I am a student at the Unicid<br>🔎 Looking for jobs<br> 📍  São Paulo - Brazil<br>
+Hello! 🖐<br>👨‍💻 I'm current studying Python<br>🏫 I am a computer science student at the Unicid<br>🔎 Looking for jobs<br> 📍  São Paulo - Brazil<br>
 
 
 ## 🌐 Socials:
