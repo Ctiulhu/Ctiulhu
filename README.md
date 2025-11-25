@@ -35,7 +35,7 @@
 
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroWestin&theme=highcontrast&hide_border=true)](https://github.com/PedroWestin/github-readme-stats)<br/>
-[![](https://nirzak-streak-stats.vercel.app?user=PedroWestin&theme=highcontrast&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)<br/>
+[![](https://nirzak-streak-stats.vercel.app?user=PedroWestin&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroWestin&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
